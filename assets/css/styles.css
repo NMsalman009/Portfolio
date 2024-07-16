@@ -290,17 +290,20 @@ img {
   border-radius: 0.5rem;
   z-index: var(--z-back);
 }
-.skills__html {
+.skills__Linux {
   width: 85%;
 }
-.skills__css {
+.skills__Automation {
+  width: 80%;
+}
+.skills__Network {
   width: 90%;
 }
-.skills__js {
-  width: 95%;
+.skills__Container {
+  width: 87%;
 }
-.skills__ux {
-  width: 90%;
+.skills__Cloud {
+  width: 85%;
 }
 .skills__img {
   border-radius: 0.5rem;
